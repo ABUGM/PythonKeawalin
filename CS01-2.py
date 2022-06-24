@@ -1,3 +1,2 @@
-Name = input("Type Your Name :")
+Name = input("Your name :")
 print (Name)
-
